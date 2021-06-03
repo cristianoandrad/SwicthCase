@@ -1,0 +1,11 @@
+C:\Users\Suporte\source\repos\SwicthCase\SwicthCase\bin\Debug\SwicthCase.exe.config
+C:\Users\Suporte\source\repos\SwicthCase\SwicthCase\bin\Debug\SwicthCase.exe
+C:\Users\Suporte\source\repos\SwicthCase\SwicthCase\bin\Debug\SwicthCase.pdb
+C:\Users\Suporte\source\repos\SwicthCase\SwicthCase\obj\Debug\SwicthCase.csprojAssemblyReference.cache
+C:\Users\Suporte\source\repos\SwicthCase\SwicthCase\obj\Debug\SwicthCase.Form1.resources
+C:\Users\Suporte\source\repos\SwicthCase\SwicthCase\obj\Debug\SwicthCase.Properties.Resources.resources
+C:\Users\Suporte\source\repos\SwicthCase\SwicthCase\obj\Debug\SwicthCase.csproj.GenerateResource.cache
+C:\Users\Suporte\source\repos\SwicthCase\SwicthCase\obj\Debug\SwicthCase.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\source\repos\SwicthCase\SwicthCase\obj\Debug\SwicthCase.exe
+C:\Users\Suporte\source\repos\SwicthCase\SwicthCase\obj\Debug\SwicthCase.pdb
+C:\Users\Suporte\source\repos\SwicthCase\SwicthCase\obj\Debug\SwicthCase.Form2.resources
